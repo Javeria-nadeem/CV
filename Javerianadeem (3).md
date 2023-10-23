@@ -2,11 +2,12 @@
 *Environmental Scientist*
 
 ## Contact
+
 **Address:** Street#02,Hunza Block, Allama iqbal town, Lahore<br>
 **Phone no.** : xxxxxxxxxxxx <br>
 **Email**: Javeria.1077@gmail.com <br>
 **Github**: https://github.com/Javeria-nadeem
----
+
 ## Education
 - **Matriculation** <br>
 Pakistan National School (2017)
