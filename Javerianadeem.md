@@ -2,7 +2,7 @@
 *Environmental Scientist*
 
 ## Contact
-**Address**: Street #02, Hunza Block, Allama Iqbal Town  
+**Address:** street#02,Hunza Block, Allama iqbal town, Lahore<br>
 **Date of Birth**: April 18, 2001 <br>
 **Email**: Javeria.1077@gmail.com <br>
 **Github**: https://github.com/Javeria-nadeem
